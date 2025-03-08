@@ -1,0 +1,17 @@
+[Document 0]
+URL=file:///home/vvkucherova/package.json
+
+[MainWindow0 Settings]
+WindowState=8
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/work/indproject/go.mod
+File2[$e]=$HOME/package.json
+Name1[$e]=go.mod
+Name2[$e]=package.json

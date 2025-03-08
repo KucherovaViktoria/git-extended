@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DirHistory>
+ <Panes>
+  <Pane>
+   <index>u0</index>
+   <History>
+    <root>"/usr/share/applications"</root>
+    <root>"/usr/share"</root>
+    <root>"/usr"</root>
+    <root>"/usr/local"</root>
+    <root>"/"</root>
+    <root>"/home"</root>
+    <root>"/home/vvkucherova"</root>
+    <root>"/home/vvkucherova/Рабочий стол"</root>
+   </History>
+  </Pane>
+  <Pane>
+   <index>u1</index>
+   <History>
+    <root>"/home/vvkucherova"</root>
+   </History>
+  </Pane>
+ </Panes>
+</DirHistory>

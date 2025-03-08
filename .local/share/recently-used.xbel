@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pandoc-crossref-Linux.tar.xz" added="2025-02-22T14:44:04.039284Z" modified="2025-02-22T14:44:04.039290Z" visited="2025-02-22T14:44:04.039285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-02-22T14:44:04.039287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/reingart-pyfpdf-1.7.2-0-gcfe3d03.tar.gz" added="2025-03-01T10:52:50.541605Z" modified="2025-03-01T10:52:50.541611Z" visited="2025-03-01T10:52:50.541607Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-01T10:52:50.541608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-01T17:13:58,278824310+03:00.png" added="2025-03-01T14:45:48.509092Z" modified="2025-03-01T14:46:43.234425Z" visited="2025-03-01T14:45:48.509093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T14:46:43.234422Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-01T17:01:49,213825779+03:00.png" added="2025-03-01T14:47:45.861585Z" modified="2025-03-01T14:49:09.103898Z" visited="2025-03-01T14:47:45.861585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T14:49:09.103895Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/foot.desktop" added="2025-03-01T14:54:44.456496Z" modified="2025-03-01T14:54:44.456530Z" visited="2025-03-01T14:54:44.456497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T14:54:44.456529Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/gentoo.desktop" added="2025-03-01T14:55:25.773407Z" modified="2025-03-01T15:20:34.809797Z" visited="2025-03-01T14:55:25.773408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T15:20:34.809796Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-02-22T18:43:05,735576787+03:00.png" added="2025-03-01T15:05:05.383040Z" modified="2025-03-01T15:05:05.383051Z" visited="2025-03-01T15:05:05.383043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T15:05:05.383046Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/swappy.desktop" added="2025-03-01T15:19:52.775478Z" modified="2025-03-01T15:20:09.193064Z" visited="2025-03-01T15:19:52.775478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T15:20:09.193063Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-02-22T18:42:57,933499272+03:00.png" added="2025-03-01T15:36:10.478554Z" modified="2025-03-01T15:36:10.478558Z" visited="2025-03-01T15:36:10.478555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T15:36:10.478556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/loadkeys" added="2025-03-01T17:35:59.176399Z" modified="2025-03-01T17:35:59.176433Z" visited="2025-03-01T17:35:59.176400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-01T17:35:59.176433Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1.jpg" added="2025-03-02T18:20:20.132271Z" modified="2025-03-07T21:02:53.813836Z" visited="2025-03-02T18:20:20.132271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-02T18:20:21.005312Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-07T21:02:53.813833Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/Makefile" added="2025-03-04T18:03:01.206741Z" modified="2025-03-04T18:03:01.206746Z" visited="2025-03-04T18:03:01.206742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-04T18:03:01.206743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/report.md" added="2025-03-04T18:03:28.859438Z" modified="2025-03-04T18:14:59.332251Z" visited="2025-03-04T18:03:28.859439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-04T18:14:59.332248Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-02T21:44:24,072225846+03:00.png" added="2025-03-06T16:02:33.523886Z" modified="2025-03-06T16:02:33.523892Z" visited="2025-03-06T16:02:33.523887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:02:33.523889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-02T21:35:08,084819460+03:00.png" added="2025-03-06T16:02:54.007643Z" modified="2025-03-06T16:02:54.007649Z" visited="2025-03-06T16:02:54.007644Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:02:54.007645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-06T19:27:36,310592238+03:00.png" added="2025-03-06T16:40:07.935752Z" modified="2025-03-06T16:40:07.935758Z" visited="2025-03-06T16:40:07.935753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:40:07.935755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-06T19:31:14,333883010+03:00.png" added="2025-03-06T16:40:24.415535Z" modified="2025-03-06T16:40:24.415542Z" visited="2025-03-06T16:40:24.415536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:40:24.415538Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-06T19:32:19,798207609+03:00.png" added="2025-03-06T16:40:40.352502Z" modified="2025-03-06T16:40:40.352509Z" visited="2025-03-06T16:40:40.352503Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:40:40.352505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-06T19:32:52,821327227+03:00.png" added="2025-03-06T16:40:56.812539Z" modified="2025-03-06T16:40:56.812546Z" visited="2025-03-06T16:40:56.812540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:40:56.812542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/2025-03-06T19:38:41,075219579+03:00.png" added="2025-03-06T16:41:12.615765Z" modified="2025-03-06T16:41:12.615774Z" visited="2025-03-06T16:41:12.615766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T16:41:12.615769Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR1-Kucherova.docx" added="2025-03-06T19:56:53.846702Z" modified="2025-03-06T19:56:53.846711Z" visited="2025-03-06T19:56:53.846705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T19:56:53.846708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR1-Kucherova.md" added="2025-03-06T19:57:53.336039Z" modified="2025-03-06T19:57:53.336045Z" visited="2025-03-06T19:57:53.336041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T19:57:53.336042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR1-Kucherova.pdf" added="2025-03-06T19:58:23.070922Z" modified="2025-03-06T19:58:23.070929Z" visited="2025-03-06T19:58:23.070923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-06T19:58:23.070925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/presentation.md" added="2025-03-06T19:58:42.313740Z" modified="2025-03-07T20:58:12.075147Z" visited="2025-03-06T19:58:42.313741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:58:12.075144Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/presentation.pdf" added="2025-03-06T19:59:09.701036Z" modified="2025-03-07T20:58:03.609432Z" visited="2025-03-06T19:59:09.701037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:58:03.609424Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR2-Kucherova.pdf" added="2025-03-07T20:52:21.430922Z" modified="2025-03-07T20:52:21.430929Z" visited="2025-03-07T20:52:21.430923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:52:21.430925Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR2-Kucherova.md" added="2025-03-07T20:52:32.164634Z" modified="2025-03-07T20:52:32.164641Z" visited="2025-03-07T20:52:32.164635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:52:32.164638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR2-Kucherova.docx" added="2025-03-07T20:52:56.628233Z" modified="2025-03-07T20:52:56.628240Z" visited="2025-03-07T20:52:56.628234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:52:56.628236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR3-Kucherova.pdf" added="2025-03-07T20:58:20.003212Z" modified="2025-03-07T20:58:20.003220Z" visited="2025-03-07T20:58:20.003213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:58:20.003216Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR3-Kucherova.md" added="2025-03-07T20:58:31.362194Z" modified="2025-03-07T20:58:31.362200Z" visited="2025-03-07T20:58:31.362195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:58:31.362197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/LR3-Kucherova.docx" added="2025-03-07T20:58:55.851101Z" modified="2025-03-07T20:58:55.851108Z" visited="2025-03-07T20:58:55.851103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T20:58:55.851105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/1.jpg" added="2025-03-07T21:04:33.385024Z" modified="2025-03-07T21:04:34.152244Z" visited="2025-03-07T21:04:33.385025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:04:34.152240Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/2.jpg" added="2025-03-07T21:04:49.429176Z" modified="2025-03-07T21:04:49.892196Z" visited="2025-03-07T21:04:49.429177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:04:49.892192Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/3.jpg" added="2025-03-07T21:05:03.011296Z" modified="2025-03-07T21:05:03.484551Z" visited="2025-03-07T21:05:03.011298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:03.484546Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/4.jpg" added="2025-03-07T21:05:12.966672Z" modified="2025-03-07T21:05:13.424791Z" visited="2025-03-07T21:05:12.966673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:13.424787Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/5.jpg" added="2025-03-07T21:05:23.404323Z" modified="2025-03-07T21:05:23.865188Z" visited="2025-03-07T21:05:23.404325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:23.865184Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/6.jpg" added="2025-03-07T21:05:36.625629Z" modified="2025-03-07T21:05:37.121373Z" visited="2025-03-07T21:05:36.625630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:37.121368Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/7.jpg" added="2025-03-07T21:05:46.982875Z" modified="2025-03-07T21:05:47.441840Z" visited="2025-03-07T21:05:46.982876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:47.441836Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/8.jpg" added="2025-03-07T21:05:58.977260Z" modified="2025-03-07T21:05:59.442727Z" visited="2025-03-07T21:05:58.977261Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:05:59.442724Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/9.jpg" added="2025-03-07T21:06:09.154628Z" modified="2025-03-07T21:06:09.611458Z" visited="2025-03-07T21:06:09.154628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:06:09.611453Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/10.jpg" added="2025-03-07T21:06:19.714584Z" modified="2025-03-07T21:06:20.223344Z" visited="2025-03-07T21:06:19.714585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:06:20.223339Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/11.jpg" added="2025-03-07T21:06:52.027761Z" modified="2025-03-07T21:06:52.514219Z" visited="2025-03-07T21:06:52.027762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:06:52.514214Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/12.jpg" added="2025-03-07T21:07:02.538599Z" modified="2025-03-07T21:07:03.036095Z" visited="2025-03-07T21:07:02.538600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:03.036090Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/13.jpg" added="2025-03-07T21:07:13.395028Z" modified="2025-03-07T21:07:13.863164Z" visited="2025-03-07T21:07:13.395029Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:13.863160Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/14.jpg" added="2025-03-07T21:07:24.545313Z" modified="2025-03-07T21:07:25.036135Z" visited="2025-03-07T21:07:24.545314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:25.036132Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/15.jpg" added="2025-03-07T21:07:35.435613Z" modified="2025-03-07T21:07:35.904439Z" visited="2025-03-07T21:07:35.435614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:35.904435Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/16.jpg" added="2025-03-07T21:07:45.891701Z" modified="2025-03-07T21:07:46.348915Z" visited="2025-03-07T21:07:45.891702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:46.348911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/17.jpg" added="2025-03-07T21:07:55.744468Z" modified="2025-03-07T21:07:56.229522Z" visited="2025-03-07T21:07:55.744469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:07:56.229517Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/18.jpg" added="2025-03-07T21:08:06.583106Z" modified="2025-03-07T21:08:07.064861Z" visited="2025-03-07T21:08:06.583107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:08:07.064857Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/19.jpg" added="2025-03-07T21:09:08.300466Z" modified="2025-03-07T21:09:08.800377Z" visited="2025-03-07T21:09:08.300467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:09:08.800374Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/20.jpg" added="2025-03-07T21:09:18.998571Z" modified="2025-03-07T21:09:19.473067Z" visited="2025-03-07T21:09:18.998572Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:09:19.473064Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/21.jpg" added="2025-03-07T21:09:37.586193Z" modified="2025-03-07T21:09:38.024205Z" visited="2025-03-07T21:09:37.586193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:09:38.024201Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/22.jpg" added="2025-03-07T21:09:47.841688Z" modified="2025-03-07T21:09:48.307180Z" visited="2025-03-07T21:09:47.841689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:09:48.307173Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/report/image/23.jpg" added="2025-03-07T21:09:58.242727Z" modified="2025-03-07T21:09:58.713784Z" visited="2025-03-07T21:09:58.242728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:09:58.713781Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/report/image/1.jpg" added="2025-03-07T21:10:46.222988Z" modified="2025-03-07T21:10:46.679067Z" visited="2025-03-07T21:10:46.222989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:10:46.679062Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/report/image/2.jpg" added="2025-03-07T21:10:56.273173Z" modified="2025-03-07T21:10:56.788471Z" visited="2025-03-07T21:10:56.273174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:10:56.788467Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/report/image/3.jpg" added="2025-03-07T21:11:04.853827Z" modified="2025-03-07T21:11:05.305494Z" visited="2025-03-07T21:11:04.853828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:11:05.305490Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/report/image/4.jpg" added="2025-03-07T21:11:14.827552Z" modified="2025-03-07T21:11:15.268292Z" visited="2025-03-07T21:11:14.827553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:11:15.268287Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/report/image/5.jpg" added="2025-03-07T21:11:26.104976Z" modified="2025-03-07T21:11:26.570685Z" visited="2025-03-07T21:11:26.104977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:11:26.570681Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/2.jpg" added="2025-03-07T21:14:38.392547Z" modified="2025-03-07T21:14:38.908828Z" visited="2025-03-07T21:14:38.392548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:14:38.908823Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/3.jpg" added="2025-03-07T21:15:04.440102Z" modified="2025-03-07T21:15:04.944730Z" visited="2025-03-07T21:15:04.440103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:15:04.944725Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/4.jpg" added="2025-03-07T21:15:34.397339Z" modified="2025-03-07T21:15:34.822376Z" visited="2025-03-07T21:15:34.397340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:15:34.822372Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/5.jpg" added="2025-03-07T21:16:31.190206Z" modified="2025-03-07T21:16:31.762260Z" visited="2025-03-07T21:16:31.190207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:16:31.762255Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/6.jpg" added="2025-03-07T21:16:58.534912Z" modified="2025-03-07T21:16:59.010001Z" visited="2025-03-07T21:16:58.534913Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:16:59.009997Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/7.jpg" added="2025-03-07T21:18:29.639371Z" modified="2025-03-07T21:18:30.166270Z" visited="2025-03-07T21:18:29.639373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:18:30.166266Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/8.jpg" added="2025-03-07T21:19:08.944605Z" modified="2025-03-07T21:19:09.444357Z" visited="2025-03-07T21:19:08.944606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:19:09.444352Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/9.jpg" added="2025-03-07T21:19:38.156175Z" modified="2025-03-07T21:19:38.632333Z" visited="2025-03-07T21:19:38.156176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:19:38.632329Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/10.jpg" added="2025-03-07T21:20:16.439001Z" modified="2025-03-07T21:20:16.981159Z" visited="2025-03-07T21:20:16.439003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:20:16.981155Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/11.jpg" added="2025-03-07T21:21:06.252173Z" modified="2025-03-07T21:21:06.686431Z" visited="2025-03-07T21:21:06.252174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:21:06.686426Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/12.jpg" added="2025-03-07T21:21:18.360069Z" modified="2025-03-07T21:21:18.841113Z" visited="2025-03-07T21:21:18.360070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:21:18.841108Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/13.jpg" added="2025-03-07T21:21:36.496637Z" modified="2025-03-07T21:21:37.024286Z" visited="2025-03-07T21:21:36.496638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:21:37.024282Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/14.jpg" added="2025-03-07T21:21:53.275053Z" modified="2025-03-07T21:21:53.778653Z" visited="2025-03-07T21:21:53.275054Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:21:53.778648Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/15.jpg" added="2025-03-07T21:22:11.384691Z" modified="2025-03-07T21:22:11.907308Z" visited="2025-03-07T21:22:11.384691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:22:11.907303Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/16.jpg" added="2025-03-07T21:22:23.042383Z" modified="2025-03-07T21:22:23.545957Z" visited="2025-03-07T21:22:23.042384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:22:23.545953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/17.jpg" added="2025-03-07T21:22:39.106437Z" modified="2025-03-07T21:22:39.617797Z" visited="2025-03-07T21:22:39.106438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:22:39.617793Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/18.jpg" added="2025-03-07T21:22:52.343924Z" modified="2025-03-07T21:22:52.878580Z" visited="2025-03-07T21:22:52.343925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:22:52.878576Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/19.jpg" added="2025-03-07T21:23:04.981747Z" modified="2025-03-07T21:23:05.499517Z" visited="2025-03-07T21:23:04.981747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:23:05.499514Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/20.jpg" added="2025-03-07T21:23:50.118943Z" modified="2025-03-07T21:23:50.651789Z" visited="2025-03-07T21:23:50.118944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:23:50.651784Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/21.jpg" added="2025-03-07T21:24:03.686992Z" modified="2025-03-07T21:24:04.208174Z" visited="2025-03-07T21:24:03.686993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:24:04.208169Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/22.jpg" added="2025-03-07T21:24:14.907296Z" modified="2025-03-07T21:24:15.387524Z" visited="2025-03-07T21:24:14.907297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:24:15.387521Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/23.jpg" added="2025-03-07T21:24:25.667667Z" modified="2025-03-07T21:24:26.167155Z" visited="2025-03-07T21:24:25.667668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:24:26.167152Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/report/image/24.jpg" added="2025-03-07T21:24:36.394699Z" modified="2025-03-07T21:24:36.897967Z" visited="2025-03-07T21:24:36.394700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:24:36.897963Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/1.jpg" added="2025-03-07T21:26:49.278327Z" modified="2025-03-07T21:26:49.777753Z" visited="2025-03-07T21:26:49.278328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:26:49.777749Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/2.jpg" added="2025-03-07T21:27:32.374490Z" modified="2025-03-07T21:27:32.830730Z" visited="2025-03-07T21:27:32.374491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:27:32.830725Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/3.jpg" added="2025-03-07T21:28:09.724474Z" modified="2025-03-07T21:28:10.216934Z" visited="2025-03-07T21:28:09.724475Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:28:10.216930Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/4.jpg" added="2025-03-07T21:28:25.531668Z" modified="2025-03-07T21:28:26.004775Z" visited="2025-03-07T21:28:25.531669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:28:26.004770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/5.jpg" added="2025-03-07T21:28:46.749346Z" modified="2025-03-07T21:28:47.233102Z" visited="2025-03-07T21:28:46.749347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:28:47.233097Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/6.jpg" added="2025-03-07T21:29:05.659351Z" modified="2025-03-07T21:29:06.218020Z" visited="2025-03-07T21:29:05.659352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:29:06.218016Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/7.jpg" added="2025-03-07T21:29:16.377591Z" modified="2025-03-07T21:29:16.891452Z" visited="2025-03-07T21:29:16.377592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:29:16.891447Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/image/8.jpg" added="2025-03-07T21:29:38.304342Z" modified="2025-03-07T21:29:38.808672Z" visited="2025-03-07T21:29:38.304343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:29:38.808668Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/1.jpg" added="2025-03-07T21:30:46.760555Z" modified="2025-03-07T21:30:47.268050Z" visited="2025-03-07T21:30:46.760556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:30:47.268045Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/2.jpg" added="2025-03-07T21:30:59.850537Z" modified="2025-03-07T21:31:00.343632Z" visited="2025-03-07T21:30:59.850538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:31:00.343626Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/3.jpg" added="2025-03-07T21:31:19.420159Z" modified="2025-03-07T21:31:19.981743Z" visited="2025-03-07T21:31:19.420160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:31:19.981738Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/4.jpg" added="2025-03-07T21:31:27.352541Z" modified="2025-03-07T21:31:27.871292Z" visited="2025-03-07T21:31:27.352542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:31:27.871288Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/5.jpg" added="2025-03-07T21:31:39.429537Z" modified="2025-03-07T21:31:39.942991Z" visited="2025-03-07T21:31:39.429538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:31:39.942988Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/6.jpg" added="2025-03-07T21:32:09.725108Z" modified="2025-03-07T21:32:10.205976Z" visited="2025-03-07T21:32:09.725109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:32:10.205970Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/7.jpg" added="2025-03-07T21:32:30.100961Z" modified="2025-03-07T21:32:30.625484Z" visited="2025-03-07T21:32:30.100962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:32:30.625479Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/8.jpg" added="2025-03-07T21:32:39.612686Z" modified="2025-03-07T21:32:40.123363Z" visited="2025-03-07T21:32:39.612687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:32:40.123359Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/9.jpg" added="2025-03-07T21:33:11.070816Z" modified="2025-03-07T21:33:12.582379Z" visited="2025-03-07T21:33:11.070817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:33:12.582374Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab02/presentation/image/10.jpg" added="2025-03-07T21:33:26.011214Z" modified="2025-03-07T21:33:26.588424Z" visited="2025-03-07T21:33:26.011216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:33:26.588419Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/image/1.jpg" added="2025-03-07T21:34:00.205355Z" modified="2025-03-07T21:34:00.733386Z" visited="2025-03-07T21:34:00.205356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:34:00.733381Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/image/2.jpg" added="2025-03-07T21:34:08.920976Z" modified="2025-03-07T21:34:09.504078Z" visited="2025-03-07T21:34:08.920977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:34:09.504073Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/image/3.jpg" added="2025-03-07T21:34:18.039419Z" modified="2025-03-07T21:34:18.499933Z" visited="2025-03-07T21:34:18.039420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:34:18.499928Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/image/4.jpg" added="2025-03-07T21:34:26.737985Z" modified="2025-03-07T21:34:27.242332Z" visited="2025-03-07T21:34:26.737986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:34:27.242326Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/image/5.jpg" added="2025-03-07T21:34:34.674106Z" modified="2025-03-07T21:34:35.219120Z" visited="2025-03-07T21:34:34.674107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-07T21:34:35.219115Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab01/presentation/presentation.pdf" added="2025-03-07T21:42:12.233243Z" modified="2025-03-07T21:42:14.021318Z" visited="2025-03-07T21:42:12.233244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-07T21:42:12.233246Z" count="1"/>
+          <bookmark:application name="Просмотр документов" exec="&apos;evince %u&apos;" modified="2025-03-07T21:42:14.021315Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/study/2024-2025/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/study_2024-2025_os-intro/labs/lab03/presentation/presentation.md" added="2025-03-07T21:45:22.927952Z" modified="2025-03-07T21:45:22.927957Z" visited="2025-03-07T21:45:22.927953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-07T21:45:22.927955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/hugo_extended_withdeploy_0.145.0_linux-amd64.tar.gz" added="2025-03-08T09:57:31.365969Z" modified="2025-03-08T09:57:31.365983Z" visited="2025-03-08T09:57:31.365971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;org.mozilla.firefox %u&apos;" modified="2025-03-08T09:57:31.365974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/work/indproject/go.mod" added="2025-03-08T11:05:50.379169Z" modified="2025-03-08T11:39:23.224616Z" visited="2025-03-08T11:05:50.379170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-mod"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-08T11:39:23.224613Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vvkucherova/package.json" added="2025-03-08T12:40:17.542449Z" modified="2025-03-08T12:40:17.542460Z" visited="2025-03-08T12:40:17.542451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-03-08T12:40:17.542455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

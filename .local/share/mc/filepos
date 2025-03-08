@@ -1,0 +1,4 @@
+/home/vvkucherova/.config/sway/config.d/95-system-keyboard-config.conf 2;0;67
+/etc/vconsole.conf 1;0;0
+/home/vvkucherova/.config/sway/config.d/80-screenshots.conf 12;2;443
+/etc/X11/xorg.conf.d/00-keyboard.conf 8;26;308

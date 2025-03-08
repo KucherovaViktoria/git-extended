@@ -1,0 +1,5 @@
+[Default Applications]
+audio/x-mod=org.kde.kwrite.desktop
+
+[Added Associations]
+audio/x-mod=org.kde.kwrite.desktop;

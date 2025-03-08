@@ -1,0 +1,21 @@
+[save-as]
+0=/etc/X11/xorg.conf.d/00-keyboard.conf
+
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/home/vvkucherova
+
+[Dir Hist New Left Panel]
+0=/etc/X11
+1=/etc/X11/xorg.conf.d
+2=/home/vvkucherova/.config
+3=/home/vvkucherova/.config/sway
+4=/home/vvkucherova/.config/sway/config.d
+5=/usr/share
+6=/usr
+7=/home/vvkucherova
+8=/home
+9=/
+10=/etc
